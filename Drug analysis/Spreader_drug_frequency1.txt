@@ -1,0 +1,612 @@
+DB12010|Fostamatinib|58
+DB00157|NADH|29
+DB00142|Glutamic acid|24
+DB09130|Copper|16
+DB14533|Zinc chloride|15
+DB01593|Zinc|15
+DB14487|Zinc acetate|15
+DB00114|Pyridoxal phosphate|12
+DB00201|Caffeine|12
+DB12267|Brigatinib|7
+DB00898|Ethanol|7
+DB01254|Dasatinib|7
+DB00273|Topiramate|6
+DB00897|Triazolam|6
+DB00241|Butalbital|6
+DB00794|Primidone|6
+DB00555|Lamotrigine|6
+DB00753|Isoflurane|6
+DB01215|Estazolam|6
+DB01588|Prazepam|6
+DB00842|Oxazepam|6
+DB00829|Diazepam|6
+DB00801|Halazepam|6
+DB00306|Talbutal|6
+DB00312|Pentobarbital|6
+DB00231|Temazepam|6
+DB00121|Biotin|6
+DB00128|Aspartic acid|6
+DB08896|Regorafenib|6
+DB01589|Quazepam|6
+DB01028|Methoxyflurane|5
+DB00237|Butabarbital|5
+DB00159|Icosapent|5
+DB04272|Citric acid|5
+DB11148|Butamben|5
+DB01189|Desflurane|5
+DB00228|Enflurane|5
+DB03147|Flavin adenine dinucleotide|5
+DB01236|Sevoflurane|5
+DB15035|Zanubrutinib|5
+DB09061|Cannabidiol|5
+DB01159|Halothane|5
+DB00583|Levocarnitine|4
+DB00402|Eszopiclone|4
+DB00659|Acamprosate|4
+DB04855|Dronedarone|4
+DB00945|Acetylsalicylic acid|4
+DB00072|Trastuzumab|4
+DB09078|Lenvatinib|4
+DB01956|Taurine|4
+DB01205|Flumazenil|4
+DB00131|Adenosine phosphate|4
+DB00675|Tamoxifen|4
+DB00780|Phenelzine|4
+DB00404|Alprazolam|4
+DB00398|Sorafenib|4
+DB00200|Hydroxocobalamin|4
+DB01708|Prasterone|4
+DB00028|Human immunoglobulin G|4
+DB00371|Meprobamate|4
+DB01043|Memantine|3
+DB00334|Olanzapine|3
+DB00418|Secobarbital|3
+DB09092|Xanthinol|3
+DB00189|Ethchlorvynol|3
+DB09079|Nintedanib|3
+DB00054|Abciximab|3
+DB00543|Amoxapine|3
+DB00774|Hydroflumethiazide|3
+DB01353|Butobarbital|3
+DB00118|Ademetionine|3
+DB00115|Cyanocobalamin|3
+DB11859|Brexanolone|3
+DB02709|Resveratrol|3
+DB00690|Flurazepam|3
+DB00603|Medroxyprogesterone acetate|3
+DB01559|Clotiazepam|3
+DB01437|Glutethimide|3
+DB09213|Dexibuprofen|3
+DB00071|Insulin pork|3
+DB08901|Ponatinib|3
+DB00818|Propofol|3
+DB00605|Sulindac|3
+DB00252|Phenytoin|3
+DB00186|Lorazepam|3
+DB00002|Cetuximab|3
+DB00491|Miglitol|3
+DB00909|Zonisamide|3
+DB01268|Sunitinib|3
+DB11901|Apalutamide|3
+DB01277|Mecasermin|3
+DB00849|Methylphenobarbital|3
+DB01107|Methyprylon|3
+DB00292|Etomidate|3
+DB00155|Citrulline|3
+DB00313|Valproic acid|3
+DB00243|Ranolazine|3
+DB06637|Dalfampridine|3
+DB01595|Nitrazepam|3
+DB06589|Pazopanib|3
+DB01068|Clonazepam|3
+DB00628|Clorazepic acid|3
+DB09118|Stiripentol|3
+DB01558|Bromazepam|3
+DB00145|Glycine|3
+DB08916|Afatinib|3
+DB00349|Clobazam|3
+DB00674|Galantamine|3
+DB00119|Pyruvic acid|3
+DB00599|Thiopental|3
+DB01351|Amobarbital|3
+DB00173|Adenine|3
+DB10770|Foreskin fibroblast (neonatal)|3
+DB01050|Ibuprofen|3
+DB14751|Mecasermin rinfabate|3
+DB12147|Erdafitinib|3
+DB00594|Amiloride|3
+DB00475|Chlordiazepoxide|3
+DB14539|Hydrocortisone acetate|2
+DB00039|Palifermin|2
+DB00619|Imatinib|2
+DB01033|Mercaptopurine|2
+DB00412|Rosiglitazone|2
+DB14544|Hydrocortisone valerate|2
+DB01544|Flunitrazepam|2
+DB05294|Vandetanib|2
+DB00328|Indomethacin|2
+DB00162|Vitamin A|2
+DB00721|Procaine|2
+DB00046|Insulin lispro|2
+DB13746|Bioallethrin|2
+DB14489|Ferrous succinate|2
+DB12141|Gilteritinib|2
+DB00795|Sulfasalazine|2
+DB13872|Lormetazepam|2
+DB02266|Flufenamic acid|2
+DB01171|Moclobemide|2
+DB13961|Fish oil|2
+DB14542|Hydrocortisone phosphate|2
+DB05015|Belinostat|2
+DB08814|Triflusal|2
+DB01259|Lapatinib|2
+DB03247|Flavin mononucleotide|2
+DB00174|Asparagine|2
+DB01592|Iron|2
+DB00139|Succinic acid|2
+DB01110|Miconazole|2
+DB08865|Crizotinib|2
+DB00350|Minoxidil|2
+DB00170|Menadione|2
+DB10772|Foreskin keratinocyte (neonatal)|2
+DB00755|Tretinoin|2
+DB11254|Hexylresorcinol|2
+DB00907|Cocaine|2
+DB01080|Vigabatrin|2
+DB00458|Imipramine|2
+DB14518|Aluminum acetate|2
+DB12978|Pexidartinib|2
+DB00143|Glutathione|2
+DB00425|Zolpidem|2
+DB01174|Phenobarbital|2
+DB01183|Naloxone|2
+DB00851|Dacarbazine|2
+DB00515|Cisplatin|2
+DB00564|Carbamazepine|2
+DB13146|Fluciclovine (18F)|2
+DB00421|Spironolactone|2
+DB00132|alpha-Linolenic acid|2
+DB06603|Panobinostat|2
+DB01234|Dexamethasone|2
+DB01306|Insulin aspart|2
+DB01119|Diazoxide|2
+DB00570|Vinblastine|2
+DB01370|Aluminium|2
+DB01392|Yohimbine|2
+DB00924|Cyclobenzaprine|2
+DB14490|Ferrous ascorbate|2
+DB02772|Sucrose|2
+DB14517|Aluminium phosphate|2
+DB00280|Disopyramide|2
+DB11986|Entrectinib|2
+DB00074|Basiliximab|2
+DB00573|Fenoprofen|2
+DB00108|Natalizumab|2
+DB00047|Insulin glargine|2
+DB00144|Phosphatidyl serine|2
+DB14541|Hydrocortisone cypionate|2
+DB14491|Ferrous fumarate|2
+DB01132|Pioglitazone|2
+DB00822|Disulfiram|2
+DB00284|Acarbose|2
+DB00078|Ibritumomab tiuxetan|2
+DB00197|Troglitazone|2
+DB14540|Hydrocortisone butyrate|2
+DB08875|Cabozantinib|2
+DB00182|Amphetamine|2
+DB09228|Conestat alfa|2
+DB00056|Gemtuzumab ozogamicin|2
+DB01307|Insulin detemir|2
+DB03017|Lauric acid|2
+DB02659|Cholic Acid|2
+DB00120|Phenylalanine|2
+DB00005|Etanercept|2
+DB06404|Human C1-esterase inhibitor|2
+DB00812|Phenylbutazone|2
+DB09085|Tetracaine|2
+DB14501|Ferrous glycine sulfate|2
+DB00975|Dipyridamole|2
+DB09564|Insulin degludec|2
+DB14488|Ferrous gluconate|2
+DB00141|N-Acetylglucosamine|2
+DB08895|Tofacitinib|2
+DB00102|Becaplermin|2
+DB00277|Theophylline|2
+DB06595|Midostaurin|2
+DB00030|Insulin human|2
+DB14543|Hydrocortisone probutate|2
+DB06616|Bosutinib|2
+DB01309|Insulin glulisine|2
+DB00075|Muromonab|2
+DB00887|Bumetanide|1
+DB00789|Gadopentetic acid|1
+DB11712|Tezacaftor|1
+DB00600|Monobenzone|1
+DB01393|Bezafibrate|1
+DB00870|Suprofen|1
+DB00536|Guanidine|1
+DB11633|Isavuconazole|1
+DB00915|Amantadine|1
+DB00631|Clofarabine|1
+DB00741|Hydrocortisone|1
+DB01399|Salsalate|1
+DB01273|Varenicline|1
+DB11760|Talazoparib|1
+DB00454|Meperidine|1
+DB00380|Dexrazoxane|1
+DB00381|Amlodipine|1
+DB00309|Vindesine|1
+DB06772|Cabazitaxel|1
+DB00095|Efalizumab|1
+DB00825|Levomenthol|1
+DB01577|Metamfetamine|1
+DB01611|Hydroxychloroquine|1
+DB00092|Alefacept|1
+DB01124|Tolbutamide|1
+DB08871|Eribulin|1
+DB06736|Aceclofenac|1
+DB00588|Fluticasone propionate|1
+DB14596|Loteprednol etabonate|1
+DB00551|Acetohydroxamic acid|1
+DB09212|Loxoprofen|1
+DB13923|Emicizumab|1
+DB00883|Isosorbide dinitrate|1
+DB12965|Silver|1
+DB03796|Palmitic Acid|1
+DB01401|Choline magnesium trisalicylate|1
+DB01109|Heparin|1
+DB11363|Alectinib|1
+DB00382|Tacrine|1
+DB01269|Panitumumab|1
+DB00636|Clofibrate|1
+DB15566|Prednisolone acetate|1
+DB04821|Nomifensine|1
+DB00395|Carisoprodol|1
+DB11193|Papain|1
+DB00838|Clocortolone|1
+DB01076|Atorvastatin|1
+DB01073|Fludarabine|1
+DB01049|Ergoloid mesylate|1
+DB00711|Diethylcarbamazine|1
+DB00752|Tranylcypromine|1
+DB00288|Amcinonide|1
+DB09330|Osimertinib|1
+DB00213|Pantoprazole|1
+DB00776|Oxcarbazepine|1
+DB00861|Diflunisal|1
+DB00390|Digoxin|1
+DB04838|Cyclandelate|1
+DB00999|Hydrochlorothiazide|1
+DB08820|Ivacaftor|1
+DB08877|Ruxolitinib|1
+DB11605|Myrrh|1
+DB01009|Ketoprofen|1
+DB09033|Vedolizumab|1
+DB00153|Ergocalciferol|1
+DB00643|Mebendazole|1
+DB00025|"Antihemophilic factor, human recombinant"|1
+DB00244|Mesalazine|1
+DB00333|Methadone|1
+DB14512|Mometasone furoate|1
+DB01092|Ouabain|1
+DB01346|Quinidine barbiturate|1
+DB04209|Dequalinium|1
+DB06217|Vernakalant|1
+DB00939|Meclofenamic acid|1
+DB01198|Zopiclone|1
+DB11323|Glycol salicylate|1
+DB01241|Gemfibrozil|1
+DB00281|Lidocaine|1
+DB00697|Tizanidine|1
+DB11963|Dacomitinib|1
+DB00351|Megestrol acetate|1
+DB12500|Fedratinib|1
+DB08900|Teduglutide|1
+DB05541|Brivaracetam|1
+DB00821|Carprofen|1
+DB00321|Amitriptyline|1
+DB13956|Estradiol valerate|1
+DB13955|Estradiol dienanthate|1
+DB09074|Olaparib|1
+DB09088|Amylocaine|1
+DB09332|Kappadione|1
+DB14001|alpha-Tocopherol succinate|1
+DB01083|Orlistat|1
+DB01047|Fluocinonide|1
+DB01158|Bretylium|1
+DB01005|Hydroxyurea|1
+DB09241|Methylene blue|1
+DB09568|Omega-3-carboxylic acids|1
+DB00465|Ketorolac|1
+DB01381|Ginkgo biloba|1
+DB00112|Bevacizumab|1
+DB00356|Chlorzoxazone|1
+DB00970|Dactinomycin|1
+DB13269|Dichlorobenzyl alcohol|1
+DB00098|Antithymocyte immunoglobulin (rabbit)|1
+DB01250|Olsalazine|1
+DB09063|Ceritinib|1
+DB09091|Tixocortol|1
+DB13996|Magnesium acetate|1
+DB06366|Pertuzumab|1
+DB01283|Lumiracoxib|1
+DB01185|Fluoxymesterone|1
+DB08860|Pitavastatin|1
+DB01612|Amyl Nitrite|1
+DB00764|Mometasone|1
+DB00130|L-Glutamine|1
+DB01133|Tiludronic acid|1
+DB01013|Clobetasol propionate|1
+DB00181|Baclofen|1
+DB01162|Terazosin|1
+DB13158|Clobetasone|1
+DB14498|Potassium acetate|1
+DB00548|Azelaic acid|1
+DB00920|Ketotifen|1
+DB11921|Deflazacort|1
+DB00384|Triamterene|1
+DB09216|Tolfenamic acid|1
+DB13998|Lonoctocog alfa|1
+DB00687|Fludrocortisone|1
+DB05239|Cobimetinib|1
+DB04854|Febuxostat|1
+DB00203|Sildenafil|1
+DB06237|Avanafil|1
+DB00596|Ulobetasol|1
+DB13952|Estradiol acetate|1
+DB00207|Azithromycin|1
+DB00590|Doxazosin|1
+DB01245|Decamethonium|1
+DB00820|Tadalafil|1
+DB01041|Thalidomide|1
+DB01021|Trichlormethiazide|1
+DB00324|Fluorometholone|1
+DB00724|Imiquimod|1
+DB11186|Pentoxyverine|1
+DB00240|Alclometasone|1
+DB01257|Eculizumab|1
+DB00806|Pentoxifylline|1
+DB00469|Tenoxicam|1
+DB01260|Desonide|1
+DB09214|Dexketoprofen|1
+DB01129|Rabeprazole|1
+DB01222|Budesonide|1
+DB01014|Balsalazide|1
+DB09342|Propoxycaine|1
+DB00414|Acetohexamide|1
+DB04817|Metamizole|1
+DB11273|Dihydroergocornine|1
+DB00630|Alendronic acid|1
+DB01396|Digitoxin|1
+DB00135|Tyrosine|1
+DB00749|Etodolac|1
+DB00325|Nitroprusside|1
+DB06267|Udenafil|1
+DB03619|Deoxycholic acid|1
+DB00367|Levonorgestrel|1
+DB09064|Ciprofibrate|1
+DB11580|Ravulizumab|1
+DB01016|Glyburide|1
+DB01247|Isocarboxazid|1
+DB00562|Benzthiazide|1
+DB01378|Magnesium cation|1
+DB01435|Antipyrine|1
+DB00647|Dextropropoxyphene|1
+DB09129|Chromic chloride|1
+DB00988|Dopamine|1
+DB13345|Dihydroergocristine|1
+DB00657|Mecamylamine|1
+DB00514|Dextromethorphan|1
+DB08906|Fluticasone furoate|1
+DB00055|Drotrecogin alfa|1
+DB12332|Rucaparib|1
+DB00959|Methylprednisolone|1
+DB00547|Desoximetasone|1
+DB01626|Pargyline|1
+DB00663|Flumethasone|1
+DB06725|Lornoxicam|1
+DB00511|Acetyldigitoxin|1
+DB00691|Moexipril|1
+DB01367|Rasagiline|1
+DB00586|Diclofenac|1
+DB04820|Nialamide|1
+DB00591|Fluocinolone acetonide|1
+DB00441|Gemcitabine|1
+DB01017|Minocycline|1
+DB09103|Ancestim|1
+DB14499|Potassium sulfate|1
+DB00620|Triamcinolone|1
+DB11079|Trolamine salicylate|1
+DB00439|Cerivastatin|1
+DB11823|Esketamine|1
+DB09345|Pramocaine|1
+DB00163|Vitamin E|1
+DB01003|Cromoglicic acid|1
+DB01082|Streptomycin|1
+DB01244|Bepridil|1
+DB01632|5-O-phosphono-alpha-D-ribofuranosyl diphosphate|1
+DB13873|Fenofibric acid|1
+DB01600|Tiaprofenic acid|1
+DB13192|Antihemophilic factor human|1
+DB00843|Donepezil|1
+DB00191|Phentermine|1
+DB00683|Midazolam|1
+DB01039|Fenofibrate|1
+DB00175|Pravastatin|1
+DB00936|Salicylic acid|1
+DB00712|Flurbiprofen|1
+DB06757|Manganese|1
+DB14006|Choline salicylate|1
+DB06201|Rufinamide|1
+DB00635|Prednisone|1
+DB00443|Betamethasone|1
+DB08890|Linaclotide|1
+DB09109|Turoctocog alfa|1
+DB01130|Prednicarbate|1
+DB08818|Hyaluronic acid|1
+DB00184|Nicotine|1
+DB00081|Tositumomab|1
+DB01587|Ketazolam|1
+DB08911|Trametinib|1
+DB00993|Azathioprine|1
+DB05013|Ingenol mebutate|1
+DB00040|Glucagon|1
+DB06654|Safinamide|1
+DB11217|Arbutin|1
+DB04868|Nilotinib|1
+DB13150|Coagulation factor VII human|1
+DB13954|Estradiol cypionate|1
+DB00860|Prednisolone|1
+DB11133|Omega-3 fatty acids|1
+DB01077|Etidronic acid|1
+DB00641|Simvastatin|1
+DB11644|Tafamidis|1
+DB01382|Glymidine|1
+DB03193|Stearic acid|1
+DB00223|Diflorasone|1
+DB12015|Alpelisib|1
+DB01095|Fluvastatin|1
+DB04941|Crofelemer|1
+DB00338|Omeprazole|1
+DB01419|Antrafenine|1
+DB13953|Estradiol benzoate|1
+DB01113|Papaverine|1
+DB05351|Dexlansoprazole|1
+DB00317|Gefitinib|1
+DB00847|Cysteamine|1
+DB08888|Ocriplasmin|1
+DB06626|Axitinib|1
+DB00991|Oxaprozin|1
+DB01248|Docetaxel|1
+DB09116|Calcium carbimide|1
+DB01380|Cortisone acetate|1
+DB00717|Norethisterone|1
+DB00788|Naproxen|1
+DB00394|Beclomethasone dipropionate|1
+DB13501|Bendazac|1
+DB01188|Ciclopirox|1
+DB04832|Zimelidine|1
+DB14002|D-alpha-Tocopherol acetate|1
+DB04899|Nesiritide|1
+DB00862|Vardenafil|1
+DB00396|Progesterone|1
+DB13615|Mifamurtide|1
+DB09559|Necitumumab|1
+DB11817|Baricitinib|1
+DB00110|Palivizumab|1
+DB00227|Lovastatin|1
+DB00122|Choline|1
+DB00013|Urokinase|1
+DB11942|Selinexor|1
+DB00087|Alemtuzumab|1
+DB13867|Fluticasone|1
+DB05773|Trastuzumab emtansine|1
+DB01240|Epoprostenol|1
+DB00126|Ascorbic acid|1
+DB01373|Calcium|1
+DB01136|Carvedilol|1
+DB11201|Menthyl salicylate|1
+DB00572|Atropine|1
+DB01452|Diamorphine|1
+DB09098|Somatrem|1
+DB01410|Ciclesonide|1
+DB06775|Carglumic acid|1
+DB00819|Acetazolamide|1
+DB06781|Difluprednate|1
+DB01037|Selegiline|1
+DB12130|Lorlatinib|1
+DB00222|Glimepiride|1
+DB00963|Bromfenac|1
+DB13999|Moroctocog alfa|1
+DB00626|Bacitracin|1
+DB09242|Moxonidine|1
+DB00715|Paroxetine|1
+DB00461|Nabumetone|1
+DB00846|Flurandrenolide|1
+DB01395|Drospirenone|1
+DB00217|Bethanidine|1
+DB00981|Physostigmine|1
+DB14500|Potassium|1
+DB00448|Lansoprazole|1
+DB01168|Procarbazine|1
+DB00180|Flunisolide|1
+DB03756|Doconexent|1
+DB14738|Turoctocog alfa pegol|1
+DB00694|Daunorubicin|1
+DB00775|Tirofiban|1
+DB11793|Niraparib|1
+DB01613|Erythrityl tetranitrate|1
+DB00399|Zoledronic acid|1
+DB05260|Gallium nitrate|1
+DB06822|Tinzaparin|1
+DB00308|Ibutilide|1
+DB00156|Threonine|1
+DB13932|Voretigene neparvovec|1
+DB00530|Erlotinib|1
+DB00089|Capromab pendetide|1
+DB00436|Bendroflumethiazide|1
+DB01221|Ketamine|1
+DB08867|Ulipristal|1
+DB01744|Camphor|1
+DB01275|Hydralazine|1
+DB14723|Larotrectinib|1
+DB09280|Lumacaftor|1
+DB00024|Thyrotropin alfa|1
+DB04895|Pegaptanib|1
+DB02530|gamma-Aminobutyric acid|1
+DB06712|Nilvadipine|1
+DB09422|Soybean oil|1
+DB01108|Trilostane|1
+DB01345|Potassium cation|1
+DB00783|Estradiol|1
+DB00736|Esomeprazole|1
+DB11619|Gestrinone|1
+DB01229|Paclitaxel|1
+DB02325|Isopropyl alcohol|1
+DB00316|Acetaminophen|1
+DB09046|Metreleptin|1
+DB00834|Mifepristone|1
+DB15444|Elexacaftor|1
+DB02701|Nicotinamide|1
+DB12688|Moxetumomab Pasudotox|1
+DB11828|Neratinib|1
+DB00242|Cladribine|1
+DB09526|Hydroquinone|1
+DB00769|Hydrocortamate|1
+DB09095|Difluocortolone|1
+DB09462|Glycerin|1
+DB01219|Dantrolene|1
+DB08883|Perampanel|1
+DB00784|Mefenamic acid|1
+DB04224|Oleic Acid|1
+DB09089|Trimebutine|1
+DB11071|Phenyl salicylate|1
+DB00727|Nitroglycerin|1
+DB01098|Rosuvastatin|1
+DB01078|Deslanoside|1
+DB02546|Vorinostat|1
+DB06802|Nepafenac|1
+DB11328|Tetradecyl hydrogen sulfate (ester)|1
+DB00253|Medrysone|1
+DB03754|Tromethamine|1
+DB00677|Isoflurophate|1
+DB00903|Etacrynic acid|1
+DB13173|Cerliponase alfa|1
+DB00773|Etoposide|1
+DB13783|Acemetacin|1
+DB00437|Allopurinol|1
+DB01074|Perhexiline|1
+DB01599|Probucol|1
+DB12483|Copanlisib|1
+DB11672|Curcumin|1
+DB13346|Bufexamac|1
+DB00500|Tolmetin|1
+DB01430|Almitrine|1
+DB14583|Segesterone acetate|1
+DB00814|Meloxicam|1
+DB00759|Tetracycline|1
+DB00451|Levothyroxine|1
+DB00554|Piroxicam|1
+DB00518|Albendazole|1
+DB00747|Scopolamine|1
+DB00896|Rimexolone|1
