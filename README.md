@@ -1,4 +1,4 @@
-# Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox
+# Computational Drug Repurposing for Viral Infectious Diseases: A Case Study on Monkeypox
 
 # Files to run:
 
