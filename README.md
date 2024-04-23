@@ -2,6 +2,17 @@
 
 #Computational Model
 
+<style>
+img
+{
+    display:block;
+    float:none;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+</style>
+
 ![image](https://github.com/CMATERJU-BIOINFO/-Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox/assets/41225514/931f8e39-76d7-4c4a-b955-79ff4a7e9d3b)
 
 ![image](https://github.com/CMATERJU-BIOINFO/-Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox/assets/41225514/53478d10-8b6c-4c41-85b4-78f2dfe175f6)
