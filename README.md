@@ -1,21 +1,14 @@
 # Computational Drug Repurposing for Viral Infectious Diseases: A Case Study on Monkeypox
 
-#Computational Model
+# Computational Model
 
-<style>
-img
-{
-    display:block;
-    float:none;
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-</style>
+<p align="center">
+  <img width="700" height="400" src="https://github.com/CMATERJU-BIOINFO/-Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox/assets/41225514/3e7fc9fe-80e8-4f9a-83ed-32a8778abc7e">
+</p>
 
-![image](https://github.com/CMATERJU-BIOINFO/-Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox/assets/41225514/931f8e39-76d7-4c4a-b955-79ff4a7e9d3b)
-
-![image](https://github.com/CMATERJU-BIOINFO/-Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox/assets/41225514/53478d10-8b6c-4c41-85b4-78f2dfe175f6)
+<p align="center">
+  <img width="700" height="400" src="https://github.com/CMATERJU-BIOINFO/-Computational-Drug-Repurposing-for-Viral-Infectious-Diseases-A-Case-Study-on-Monkeypox/assets/41225514/d2a625de-305c-458b-84a8-f757df3ff663">
+</p>
 
 # Files to run:
 
