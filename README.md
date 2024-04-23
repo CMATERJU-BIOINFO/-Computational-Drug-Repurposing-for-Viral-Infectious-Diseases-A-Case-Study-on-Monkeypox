@@ -2,7 +2,9 @@
 
 # Abstract
 
+<p align="justify">
 The traditional method of drug reuse or repurposing has significantly contributed to the identification of new antiviral compounds and therapeutic targets, enabling rapid response to developing infectious illnesses. This article presents an overview of how modern computational methods are used in drug repurposing for the treatment of viral infectious diseases. These methods utilize data sets that include reviewed information on the host’s response to pathogens and drugs, as well as various connections such as gene expression patterns and protein–protein interaction networks. We assess the potential benefits and limitations of these methods by examining monkeypox as a specific example, but the knowledge acquired can be applied to other comparable disease scenarios.
+</p>
 
 # Computational Model
 
